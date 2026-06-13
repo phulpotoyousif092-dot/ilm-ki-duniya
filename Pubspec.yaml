@@ -1,0 +1,21 @@
+name: ilm_ki_duniya
+
+description: PDF and Text Reader App
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+
+  flutter:
+
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
